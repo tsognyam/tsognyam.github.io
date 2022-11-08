@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Tsognyam Baynbat
+title: Full Stack Developer
+email: tsognyamt@gmail.com
+website: tsognyam.ml
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: b_tsognyam
+github_username:  tsognyam
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: tsognyam
+linkedin_username: tsognyam
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: tsognyam
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
